@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "MyElsaProject": {
+    "ElsaDemo": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
